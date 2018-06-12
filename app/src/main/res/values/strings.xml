@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Showcase</string>
+    <string name="no_connection">Please, check your internet connection</string>
+    <string name="generic_error">Something went wrong</string>
+</resources>

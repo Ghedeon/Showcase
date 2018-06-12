@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="grid12">12dp</dimen>
+    <dimen name="grid8">8dp</dimen>
+</resources>
